@@ -1,6 +1,8 @@
 # AddressBookAssignment
 Address Book Assignment
 
+Java 8 features have been used in the assignment.
+
 This assignment will achieve following functionalities
 
 1. Address book will hold name and phone numbers for contact entries.
